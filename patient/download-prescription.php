@@ -52,7 +52,6 @@ if($_GET){
 
     $pdf->SetFont('Arial','',12);
     $pdf->MultiCell(0,10,$row['presc_details']);
-
     $pdf->Output('D','prescription-'.$id.'.pdf');
 }
 ?>
