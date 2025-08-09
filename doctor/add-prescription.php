@@ -69,7 +69,7 @@
                             </tr>
                     </table>
                     </td>
-                </tr>
+                </tr> 
                 <tr class="menu-row" >
                     <td class="menu-btn menu-icon-dashbord" >
                         <a href="index.php" class="non-style-link-menu"><div><p class="menu-text">Dashboard</p></a></div></a>
